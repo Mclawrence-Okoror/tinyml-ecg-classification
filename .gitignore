@@ -1,0 +1,27 @@
+# Dataset
+mit-bih-arrhythmia-database-1.0.0/
+
+# Compiled programs
+*.exe
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Large generated test vectors
+mlp8_test_vectors.h
+
+# Intermediate trained model directories
+experiment4_models/
+experiment5_models/
+experiment6_models/
+
+# Obsolete / incorrect files
+first_test.py
+export_one_test_beat.py
+real_test_beat.h
+ecg_project.py
